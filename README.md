@@ -2,7 +2,7 @@
 This is my public repository where I share information and other valuable resources from my work in the IT business
 
 ### Blog Posts
-Visit blog where I share information about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
+Visit my blog, where I share information about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
 
 - [GitHub Enterprise for Modern SDLC: Why, What, and How](https://dowi.dk/github-enterprise-for-modern-sdlc-why-what-and-how/)
 - [Microsoft IQ: Why It Matters, What It Includes, and How to Get Started](https://dowi.dk/microsoft-iq-why-it-matters-what-it-includes-and-how-to-get-started/)
@@ -24,7 +24,7 @@ Visit blog where I share information about IT subjects like adaptive cloud platf
 - [The power of Agile development with Azure DevOps](https://dowi.dk/the-power-of-agile-development-with-azure-devops/)
 
 ### Other Resources
-List of relevant information about IT business technology like architectures, frameworks and certifications
+Here is a list of other relevant information, about IT business technology like architectures, frameworks and certifications:
 - [Certification](https://dowi.dk/resources/certification/)
 - [Communities](https://dowi.dk/resources/communities/)
 - [Framework](https://dowi.dk/resources/frameworks/)
