@@ -1,7 +1,5 @@
 <img width="1400" height="350" alt="Banner" src="https://github.com/user-attachments/assets/e431cf1f-1d83-42d0-879b-db02c7b62b4e" />
-
-# Welcome to DOWI.dk
-This is my public repository, where I share information and other valuable resources from my work in the IT business.
+Welcome to the public repository for DOWI.dk, where I share information and other valuable resources from my work in the IT business.
 
 ### Blog Posts
 Visit my blog, to learn about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
