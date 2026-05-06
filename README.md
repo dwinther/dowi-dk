@@ -1,4 +1,4 @@
-<a href="https://dowi"><img width="1280" height="302" alt="dowi-dk_banner" src="https://github.com/user-attachments/assets/2abb3b4d-bdc4-4944-9b34-64225a79e704" /></a>
+<a href="https://dowi.dk"><img width="1280" height="302" alt="dowi-dk_banner" src="https://github.com/user-attachments/assets/2abb3b4d-bdc4-4944-9b34-64225a79e704" /></a>
 <br>
 Welcome to the public repository for dowi.dk, where I share information and other valuable resources from my work in the IT business.
 
