@@ -1,0 +1,1 @@
+- [GitHub Enterprise for Modern SDLC: Why, What, and How](https://dowi.dk/github-enterprise-for-modern-sdlc-why-what-and-how/)
