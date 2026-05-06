@@ -55,4 +55,3 @@ Become a member of the site forum, where we discuss relevant IT subjects, on IT 
 <p align="center">
 All Rights Reserved @ DOWI.dk (2025)
 </p>
-<br>
