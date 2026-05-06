@@ -44,3 +44,9 @@ Become a member of the site forum, where we discuss relevant IT subjects, on IT 
 - [Cybersecurity Scenarios](https://dowi.dk/community/cybersecurity-scenarios/)
 - [Hybrid Cloud Solutions](https://dowi.dk/community/hybrid-cloud/)
 - [Software Development](https://dowi.dk/community/software-development/)
+
+<br>
+<p align="center">
+All Rights Reserved @ DOWI.dk (2025)
+</p>
+<br>
