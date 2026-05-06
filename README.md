@@ -1,8 +1,8 @@
 # Welcome to DOWI.dk
-This is my public repository where I share information and other valuable resources from my work in the IT business
+This is my public repository, where I share information and other valuable resources from my work in the IT business.
 
 ### Blog Posts
-Visit my blog, where I share information about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
+Visit my blog, to learn about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
 
 - [GitHub Enterprise for Modern SDLC: Why, What, and How](https://dowi.dk/github-enterprise-for-modern-sdlc-why-what-and-how/)
 - [Microsoft IQ: Why It Matters, What It Includes, and How to Get Started](https://dowi.dk/microsoft-iq-why-it-matters-what-it-includes-and-how-to-get-started/)
@@ -23,8 +23,8 @@ Visit my blog, where I share information about IT subjects like adaptive cloud p
 - [Developing AI solutions with Microsoft Copilot Studio](https://dowi.dk/developing-ai-solutions-through-microsoft-copilot-studio/)
 - [The power of Agile development with Azure DevOps](https://dowi.dk/the-power-of-agile-development-with-azure-devops/)
 
-### Other Resources
-Here is a list of other relevant information, about IT business technology like architectures, frameworks and certifications:
+### Shared Resources
+Look at my list of other relevant information, about IT business technology like architectures, frameworks and certifications:
 - [Certification](https://dowi.dk/resources/certification/)
 - [Communities](https://dowi.dk/resources/communities/)
 - [Framework](https://dowi.dk/resources/frameworks/)
@@ -38,7 +38,7 @@ View my website calendar, where I share IT related event information from around
 - [Previous Events](https://dowi.dk/events/list/?tribe-bar-date=2025-01-01)
 
 ### Site Forum
-Site forum where we discuss relevant IT subjects, on IT service and solutions categories that can empower business productivity and innovation:
+Become a member of the site forum, where we discuss relevant IT subjects, on IT service and solutions categories that can empower business productivity and innovation:
 - [Artificial Intelligence](https://dowi.dk/community/artificial-intelligence-general-discussions/)
 - [Cybersecurity Scenarios](https://dowi.dk/community/cybersecurity-scenarios/)
 - [Hybrid Cloud Solutions](https://dowi.dk/community/hybrid-cloud/)
