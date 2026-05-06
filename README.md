@@ -36,3 +36,10 @@ Here is a list of other relevant information, about IT business technology like 
 View my website calendar, where I share IT related event information from around the world that I think other like-minded people also might be interested in:
 - [Upcoming Events](https://dowi.dk/events/)
 - [Previous Events](https://dowi.dk/events/list/?tribe-bar-date=2025-01-01)
+
+### Site Forum
+Site forum where we discuss relevant IT subjects, on IT service and solutions categories that can empower business productivity and innovation:
+- [Artificial Intelligence](https://dowi.dk/community/artificial-intelligence-general-discussions/)
+- [Cybersecurity Scenarios](https://dowi.dk/community/cybersecurity-scenarios/)
+- [Hybrid Cloud Solutions](https://dowi.dk/community/hybrid-cloud/)
+- [Software Development](https://dowi.dk/community/software-development/)
