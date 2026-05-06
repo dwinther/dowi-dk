@@ -1,5 +1,5 @@
 # Welcome to DOWI.dk
-This is my public repository where I share my information and other valuable resources from my work in the IT business
+This is my public repository where I share information and other valuable resources from my work in the IT business
 
 ### Blog Posts
 Visit blog where I share information about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
@@ -22,3 +22,12 @@ Visit blog where I share information about IT subjects like adaptive cloud platf
 - [Microsoft Adaptive Cloud Infrastructure: Why, What, and How](https://dowi.dk/microsoft-adaptive-cloud-infrastructure-why-what-and-how/)
 - [Developing AI solutions with Microsoft Copilot Studio](https://dowi.dk/developing-ai-solutions-through-microsoft-copilot-studio/)
 - [The power of Agile development with Azure DevOps](https://dowi.dk/the-power-of-agile-development-with-azure-devops/)
+
+### Other Resources
+List of relevant information about IT business technology like architectures, frameworks and certifications
+- [Certification](https://dowi.dk/resources/certification/)
+- [Communities](https://dowi.dk/resources/communities/)
+- [Framework](https://dowi.dk/resources/frameworks/)
+- [Services](https://dowi.dk/resources/services/)
+- [Solutions](https://dowi.dk/resources/solutions/)
+- [Tools](https://dowi.dk/resources/tools/)
