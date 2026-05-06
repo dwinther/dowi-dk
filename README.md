@@ -31,3 +31,8 @@ Here is a list of other relevant information, about IT business technology like 
 - [Services](https://dowi.dk/resources/services/)
 - [Solutions](https://dowi.dk/resources/solutions/)
 - [Tools](https://dowi.dk/resources/tools/)
+
+### Featured Events
+View my website calendar, where I share IT related event information from around the world that I think other like-minded people also might be interested in:
+- [Upcoming Events](https://dowi.dk/events/)
+- [Previous Events](https://dowi.dk/events/list/?tribe-bar-date=2025-01-01)
