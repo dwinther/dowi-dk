@@ -1,7 +1,7 @@
 # Welcome to DOWI.dk
 This is my public repository where I share my information and other valuable resources from my work in the IT business
 
-## Blog Posts
+### Blog Posts
 Visit blog where I share information about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
 
 - [GitHub Enterprise for Modern SDLC: Why, What, and How](https://dowi.dk/github-enterprise-for-modern-sdlc-why-what-and-how/)
