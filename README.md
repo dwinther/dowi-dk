@@ -3,6 +3,7 @@
 Welcome to the public repository for dowi.dk, where I share information and other valuable resources from my work in the IT business.
 
 ### Blog Posts
+
 Visit my blog, to learn about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
 
 - [GitHub Enterprise for Modern SDLC: Why, What, and How](https://dowi.dk/github-enterprise-for-modern-sdlc-why-what-and-how/)
@@ -25,7 +26,9 @@ Visit my blog, to learn about IT subjects like adaptive cloud platforms, artific
 - [The power of Agile development with Azure DevOps](https://dowi.dk/the-power-of-agile-development-with-azure-devops/)
 
 ### Shared Resources
+
 Look at my list of other relevant information, about IT business technology like architectures, frameworks and certifications:
+
 - [Certification](https://dowi.dk/resources/certification/)
 - [Communities](https://dowi.dk/resources/communities/)
 - [Framework](https://dowi.dk/resources/frameworks/)
@@ -34,12 +37,15 @@ Look at my list of other relevant information, about IT business technology like
 - [Tools](https://dowi.dk/resources/tools/)
 
 ### Featured Events
+
 View my website calendar, where I share IT related event information from around the world that I think other like-minded people also might be interested in:
 - [Upcoming Events](https://dowi.dk/events/)
 - [Previous Events](https://dowi.dk/events/list/?tribe-bar-date=2025-01-01)
 
 ### Site Forum
+
 Become a member of the site forum, where we discuss relevant IT subjects, on IT service and solutions categories that can empower business productivity and innovation:
+
 - [Artificial Intelligence](https://dowi.dk/community/artificial-intelligence-general-discussions/)
 - [Cybersecurity Scenarios](https://dowi.dk/community/cybersecurity-scenarios/)
 - [Hybrid Cloud Solutions](https://dowi.dk/community/hybrid-cloud/)
