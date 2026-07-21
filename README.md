@@ -4,7 +4,7 @@ Welcome to the public repository for [dowi.dk](https://dowi.dk), where I share i
 
 ### Blog Posts
 
-Visit my blog, to learn about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
+Visit my blog, to learn about IT subjects like adaptive cloud platforms, artificial intelligence, software develpoment and cybersecurity solutions or services:
 
 - [Developing Responsible Generative AI Solutions](https://dowi.dk/developing-responsible-generative-ai-solutions/)
 - [Windows Admin Center in Azure: The Why, What, and How of Hybrid Windows Server Management](https://dowi.dk/windows-admin-center-in-azure-the-why-what-and-how-of-hybrid-windows-server-management/)
