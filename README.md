@@ -6,6 +6,8 @@ Welcome to the public repository for [dowi.dk](https://dowi.dk), where I share i
 
 Visit my blog, to learn about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
 
+- [Developing Responsible Generative AI Solutions](https://dowi.dk/developing-responsible-generative-ai-solutions/)
+- [Windows Admin Center in Azure: The Why, What, and How of Hybrid Windows Server Management](https://dowi.dk/windows-admin-center-in-azure-the-why-what-and-how-of-hybrid-windows-server-management/)
 - [Azure Virtual Desktop Service: Why, What and How](https://dowi.dk/azure-virtual-desktop-why-what-and-how)
 - [GitHub Enterprise for Modern SDLC: Why, What, and How](https://dowi.dk/github-enterprise-for-modern-sdlc-why-what-and-how/)
 - [Microsoft IQ: Why It Matters, What It Includes, and How to Get Started](https://dowi.dk/microsoft-iq-why-it-matters-what-it-includes-and-how-to-get-started/)
