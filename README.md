@@ -4,13 +4,8 @@ Welcome to the public repository for [dowi.dk](https://dowi.dk), where I share i
 
 ### Blog Posts
 
-Visit my blog, to learn about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
+Visit my blog, to learn about the main IT subjects that I focus on, like hybrid or adaptive public cloud platforms, artificial intelligence technologies, software development engineering and modern cybersecurity solutions or services:
 
-<<<<<<< HEAD
-- [Developing Responsible Generative AI Solutions](https://dowi.dk/developing-responsible-generative-ai-solutions/)
-- [Windows Admin Center in Azure: The Why, What, and How of Hybrid Windows Server Management](https://dowi.dk/windows-admin-center-in-azure-the-why-what-and-how-of-hybrid-windows-server-management/)
-- [Azure Virtual Desktop: Why, What, and How](https://dowi.dk/azure-virtual-desktop-why-what-and-how/)
-=======
 - [Azure Virtual Desktop Service: Why, What and How](https://dowi.dk/azure-virtual-desktop-why-what-and-how)
 >>>>>>> 3af9ce568469402fa0a498fad3f5b536bca7734d
 - [GitHub Enterprise for Modern SDLC: Why, What, and How](https://dowi.dk/github-enterprise-for-modern-sdlc-why-what-and-how/)
