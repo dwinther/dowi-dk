@@ -7,7 +7,6 @@ Welcome to the public repository for [dowi.dk](https://dowi.dk), where I share i
 Visit my blog, to learn about the main IT subjects that I focus on, like hybrid or adaptive public cloud platforms, artificial intelligence technologies, software development engineering and modern cybersecurity solutions or services:
 
 - [Azure Virtual Desktop Service: Why, What and How](https://dowi.dk/azure-virtual-desktop-why-what-and-how)
->>>>>>> 3af9ce568469402fa0a498fad3f5b536bca7734d
 - [GitHub Enterprise for Modern SDLC: Why, What, and How](https://dowi.dk/github-enterprise-for-modern-sdlc-why-what-and-how/)
 - [Microsoft IQ: Why It Matters, What It Includes, and How to Get Started](https://dowi.dk/microsoft-iq-why-it-matters-what-it-includes-and-how-to-get-started/)
 - [Strengthening Cybersecurity Through Simulation: The Atea Esc Room](https://dowi.dk/strengthening-cybersecurity-through-simulation-the-atea-esc-room/)
