@@ -1,14 +1,18 @@
 <a href="https://dowi.dk"><img width="1280" height="302" alt="dowi-dk_banner" src="https://github.com/user-attachments/assets/2abb3b4d-bdc4-4944-9b34-64225a79e704" /></a>
 <br>
-Welcome to the public repository for dowi.dk, where I share information and other valuable resources from my work in the IT business.
+Welcome to the public repository for [dowi.dk](https://dowi.dk), where I share information and other valuable resources from my work in the IT business.
 
 ### Blog Posts
 
 Visit my blog, to learn about IT subjects like adaptive cloud platforms, artificial intelligence and cybersecurity solutions or services:
 
+<<<<<<< HEAD
 - [Developing Responsible Generative AI Solutions](https://dowi.dk/developing-responsible-generative-ai-solutions/)
 - [Windows Admin Center in Azure: The Why, What, and How of Hybrid Windows Server Management](https://dowi.dk/windows-admin-center-in-azure-the-why-what-and-how-of-hybrid-windows-server-management/)
 - [Azure Virtual Desktop: Why, What, and How](https://dowi.dk/azure-virtual-desktop-why-what-and-how/)
+=======
+- [Azure Virtual Desktop Service: Why, What and How](https://dowi.dk/azure-virtual-desktop-why-what-and-how)
+>>>>>>> 3af9ce568469402fa0a498fad3f5b536bca7734d
 - [GitHub Enterprise for Modern SDLC: Why, What, and How](https://dowi.dk/github-enterprise-for-modern-sdlc-why-what-and-how/)
 - [Microsoft IQ: Why It Matters, What It Includes, and How to Get Started](https://dowi.dk/microsoft-iq-why-it-matters-what-it-includes-and-how-to-get-started/)
 - [Strengthening Cybersecurity Through Simulation: The Atea Esc Room](https://dowi.dk/strengthening-cybersecurity-through-simulation-the-atea-esc-room/)
@@ -58,4 +62,3 @@ Become a member of the site forum, where we discuss relevant IT subjects, on IT 
 <p align="center">
 All Rights Reserved @ DOWI.dk (2025)
 </p>
-<br>
